@@ -42,7 +42,6 @@ All SQL queries are available in [`queries.sql`](queries.sql).
 ### 1. Basic Queries
 
 ```sql
--- Customers from São Paulo
 SELECT customer_id, customer_city, customer_state
 FROM customers
 WHERE customer_state = 'SP'
