@@ -20,12 +20,18 @@ This repository contains SQL queries used to analyze the Olist E-commerce datase
 
 ```
 ├── README.md                  <- This file  
-├── olist.db                   <- Original SQLite database  
+├── olist-db.txt               <- Original SQLite database FILE LINK
 ├── queries.sql                <- All SQL queries  
-├── database-after-queries.db  
+├── database-after-queries-db.txt  <- FILE LINK
 ```
 
 ---
+
+**Download Files from Google Drive:**
+
+- 📦 [Original Dataset (olist.db)](https://drive.google.com/file/d/12JLuIvlEgNbNCD94-IRGdgSqiNL9Y2YU/view?usp=drive_link)
+- 💾 [Database After Queries (database-after-queries.db)](https://drive.google.com/file/d/1g7Z9gAMTJVEzZdFwL2prWIbiSLfDky4Y/view?usp=drive_link)
+
 
 ## 📝 Dataset Notes
 
