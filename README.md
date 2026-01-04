@@ -1,6 +1,21 @@
-# Olist E-commerce Dataset Analysis with SQL (SQLite)
+> ⚠️ **ARCHIVED REPOSITORY**
+>
+> This repository is no longer actively maintained.
+>
+> The **active and maintained version** of this work now lives in the
+> **Data Analyst Internship Tasks** monorepo under **Task-03: SQL for Data Analysis**.
+>
+> [![ACTIVE PROJECT](https://img.shields.io/badge/ACTIVE%20PROJECT-View%20Task--03_SQL--Analysis-success?style=for-the-badge)]
+> (https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-03_SQL-Analysis)
+>
+> This repository is preserved **only for historical and learning reference**.
 
-This repository contains SQL queries used to analyze the Olist E-commerce dataset using SQLite.
+
+# E-commerce Dataset Analysis with SQL (SQLite)
+
+This repository contains SQL queries created during an early learning phase
+to practice data analysis using SQLite on a large e-commerce–style dataset.
+
 
 ---
 
@@ -10,9 +25,20 @@ This repository contains SQL queries used to analyze the Olist E-commerce datase
 
 ---
 
-## 📦 Dataset
+## 📦 Dataset & Data Availability
 
-- [E-commerce Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database)
+This project was created during an early learning phase using a large
+e-commerce–style SQLite database.
+
+Due to the age of this repository, the exact source, version, and licensing
+details of the original dataset or database files used are **no longer fully
+traceable**.
+
+To avoid unintended redistribution of large data files or licensed content,
+**no datasets or database files are distributed from this repository**.
+
+All analysis was performed **strictly for educational and non-commercial
+purposes**.
 
 ---
 
@@ -20,18 +46,12 @@ This repository contains SQL queries used to analyze the Olist E-commerce datase
 
 ```
 ├── README.md                  <- This file  
-├── olist-db.txt               <- Original SQLite database FILE LINK
+├── olist-db.txt               <- Dataset reference and availability notice
 ├── queries.sql                <- All SQL queries  
-├── database-after-queries-db.txt  <- FILE LINK
+├── database-after-queries-db.txt  <- Derived database reference notice
 ```
 
 ---
-
-**Download Files from Google Drive:**
-
-- 📦 [Original Dataset (olist.db)](https://drive.google.com/file/d/12JLuIvlEgNbNCD94-IRGdgSqiNL9Y2YU/view?usp=drive_link)
-- 💾 [Database After Queries (database-after-queries.db)](https://drive.google.com/file/d/1g7Z9gAMTJVEzZdFwL2prWIbiSLfDky4Y/view?usp=drive_link)
-
 
 ## 📝 Dataset Notes
 
@@ -156,12 +176,12 @@ LIMIT 10;
 
 ## ▶️ How to Use
 
-1. Download `olist.sqlite` and `queries.sql`.
-2. Open `olist.sqlite` using DB Browser for SQLite (or any SQLite client).
+1. Review the SQL queries in `queries.sql`.
+2. Apply them to a compatible SQLite database for practice or learning.
 3. You can:
    - Run SQL queries section-wise  or
    - Execute the full `queries.sql` file.
-4. Optionally, save your modified DB as `database-after-queries.db`.
+4. Optionally, save your modified database locally for personal reference.
 
 ---
 
@@ -172,6 +192,7 @@ This project demonstrates SQL data analysis on a real-world e-commerce dataset u
 - **Filtering, sorting, and aggregation**
 - **Joining multiple tables**
 - **Subqueries and views**
+
 
 
 
