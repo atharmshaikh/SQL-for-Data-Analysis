@@ -5,8 +5,7 @@
 > The **active and maintained version** of this work now lives in the
 > **Data Analyst Internship Tasks** monorepo under **Task-03: SQL for Data Analysis**.
 >
-> [![ACTIVE PROJECT](https://img.shields.io/badge/ACTIVE%20PROJECT-View%20Task--03_SQL--Analysis-success?style=for-the-badge)]
-> (https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-03_SQL-Analysis)
+> [![ACTIVE PROJECT](https://img.shields.io/badge/ACTIVE%20PROJECT-View%20Task--03_SQL--Analysis-success?style=for-the-badge)](https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-03_SQL-Analysis)
 >
 > This repository is preserved **only for historical and learning reference**.
 
@@ -192,6 +191,7 @@ This project demonstrates SQL data analysis on a real-world e-commerce dataset u
 - **Filtering, sorting, and aggregation**
 - **Joining multiple tables**
 - **Subqueries and views**
+
 
 
 
