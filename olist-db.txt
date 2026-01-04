@@ -1,2 +1,15 @@
-Original Dataset (olist.db)
-Google Drive Link: https://drive.google.com/file/d/12JLuIvlEgNbNCD94-IRGdgSqiNL9Y2YU/view?usp=drive_link
+Original Dataset (SQLite Database)
+
+This file previously referenced a large SQLite database used during an early
+learning phase of this project.
+
+Due to file size constraints and uncertainty around the exact source, version,
+and licensing details of the original dataset or database file, the database is
+no longer distributed or linked from this repository.
+
+The analysis in this repository was performed strictly for educational and
+non-commercial purposes.
+
+If you are a data owner or rights holder and believe that any content related to
+this dataset should not be publicly available, please contact the repository
+owner or open an issue, and the content will be promptly reviewed or removed.
