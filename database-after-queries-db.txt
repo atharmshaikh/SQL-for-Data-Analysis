@@ -1,2 +1,16 @@
-Database After Queries (database-after-queries.db)
-Google Drive Link: https://drive.google.com/file/d/1g7Z9gAMTJVEzZdFwL2prWIbiSLfDky4Y/view?usp=drive_link
+Database After Queries (Derived SQLite Database)
+
+This file previously referenced a derived SQLite database created after running
+SQL queries on a large e-commerce dataset during an early learning phase of the
+project.
+
+To avoid redistribution of large data files or content with unclear licensing,
+the derived database file is no longer distributed or linked from this
+repository.
+
+All transformations and queries were performed strictly for educational and
+non-commercial purposes.
+
+If you are a data owner or rights holder and believe that any content related to
+this database should not be publicly available, please contact the repository
+owner or open an issue, and the content will be promptly reviewed or removed.
